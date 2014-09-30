@@ -1,8 +1,9 @@
 Project Name:		AussieTaxCalculator (Other names that it can be identified with 			AussiePaySlipGenerator, TaxAndSuperCalculator)
 
-Status:			InComplete
+Status:			Work in Progress
 Notes			This is just a skeleton for now.
-Frameworks:		None decided yet (For Spring MVC Please see AussiePaySlipGenerator  )
+Frameworks:		None decided yet but plans are SpringMVC Rest with angularJS
+			(For Spring MVC Please see AussiePaySlipGenerator  )
 IDE:			NetBeans IDE
 Application Servers	GlassFish/Tomcat
 JDK:			Java 7
